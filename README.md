@@ -1,48 +1,80 @@
-# ¡Hola! Soy Luisa 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/People%20with%20professions/Woman%20Technologist.png" alt="Woman Technologist" width="40" height="40" />
+  ¡Hola, mundo! Soy Luisaaa
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Software+%26+Apasionado+por+el+Dise%C3%B1o;Creando+soluciones+innovadoras" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZqazh5ZXAwaTJvdmw1bnkybmtodXVqNnUwaXV5YzU3MXBua2RwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsH9fU2dC0mY/giphy.gif" alt="My Melody Coding Gif" width="300"/>
+  <br>
+  <i>"Haciendo que la lógica se vea bonita y que el software funcione de maravilla."</i>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Holidays%20and%20Events/Sparkles.png" width="30"> Sobre Mi...
 
-- 🎓 Actualmente estudiando **Ingeniería de Sistemas**.
-- 💡 Interesado en el **Desarrollo de Software**, **Lógica de Programación** y **Diseño UI/UX**.
-- 🛠️ Trabajando en proyectos con **Python**, **Algoritmos** y **Prototipado**.
-- 💬 Pregúntame sobre **Estructuras de Datos**, **Diseño de Interfases** o **Matemáticas**.
+*   🎀 **Software Developer in the making:** Actualmente absorbiendo todo el conocimiento sobre desarrollo de software en [Tu Universidad/Plataforma de Estudio].
+*   💫 **Pasiones:** Me encanta el Front-end, el diseño de interfaces (UI/UX), y estoy empezando a explorar el Back-end. Mi meta es crear aplicaciones que sean tan hermosas como funcionales.
+*   🌸 **Mi "Vibe":** Creo que el código limpio es tan importante como una interfaz estética. Mi setup está lleno de luces pastel y figuritas.
+*   🍭 **Curiosidad:** Amo los gatos, la música Lofi y el té de boba.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Objects/Laptop.png" width="30"> Mis "Pociones" Mágicas (Tech Stack)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <!-- Reemplaza o añade las tecnologías que estás aprendiendo. Puedes buscar badges en 'shield.io' -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F8C8DC" alt="JS Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FFB7C5" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=FFC0CB" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=E6E6FA" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FDFD96" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ACE5EE" alt="Git Badge"/>
 </p>
+
+<details>
+  <summary><b>Click para ver mis herramientas de diseño... ✨</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&color=F8C8DC" alt="Figma Badge"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white&color=FFB7C5" alt="Canva Badge"/>
+</details>
 
 ---
 
-### 📊 Estadísticas de GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Objects/Heart%20Decoration.png" width="30"> Proyectos con Corazón
 
+*   **[Nombre Proyecto 1]:** 🌸 Una app web para [explicación super breve]. Usé React y una API pública. ¡Mi primer gran proyecto!
+*   **[Nombre Proyecto 2]:** 🎀 Un script en Python para automatizar [explicación]. Lo que más me costó fue [algo que aprendiste].
+*   **[Nombre Proyecto 3]:** ⭐ Rediseño de interfaz para una app de [tema]. Me enfoqué en la accesibilidad y el modo "dark-girly".
+
+<!-- Tip: Puedes usar estas tarjetas dinámicas para mostrar tus repos, pero requieren configuración: -->
+<!-- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados" />
+  <a href="https://github.com/TU_USUARIO/[REPO_DE_PROYECTO]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=[REPO_DE_PROYECTO]&theme=dracula" alt="Proyecto Pin" />
+  </a>
 </p>
+-->
 
 ---
 
-### 📫 Contacto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Symbols/Chat%20Bubble.png" width="30"> ¡Hablemos!
+
+¿Tienes alguna pregunta sobre mis proyectos, quieres colaborar, o simplemente quieres compartir recomendaciones de tés o música Lofi?
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/[TU_LINKEDIN]/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=F8C8DC" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://twitter.com/[TU_TWITTER]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=FFB7C5" alt="Twitter" />
   </a>
+  <a href="mailto:[TU_EMAIL]@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=E6E6FA" alt="Email" />
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <i>"Que tus `promesas` siempre se cumplan y tus `bucles` no sean infinitos."</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Holidays%20and%20Events/Two%20Hearts.png" width="20">
 </p>
