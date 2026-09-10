@@ -17,14 +17,14 @@
 
 ### 💕 Sobre Mí
 
-* 💻 **Carrera:** Estudiando **Desarrollo de Software**.
+* 💻 **Carrera:** Estudiando **Técnico profesional en Desarrollo de Software**.
 * 🧠 **Enfoque:** Lógica de programación, estructura de datos y desarrollo web.
 * 💅 **Style:** Código limpio, organizado y con la interfaz más estética posible.
 * 🌸 **Goal:** Convertirme en una Dev Fullstack imparable.
 
 ---
 
-### 💄 Mi Tech Stack (Pink Edition)
+###  Mi Tech Stack
 
 <div align="left">
 
