@@ -54,31 +54,44 @@ Me gusta comprender cómo funcionan las cosas, enfrentar nuevos retos y transfor
 
 ## 💻 Tech Stack | Tecnologías y herramientas
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td width="50%" align="left" valign="top">
-<b>Lenguajes de programación</b><br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" alt="CSS"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React"/>
+<td align="center" width="450">
+
+**Lenguajes de programación**
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat" alt="CSS"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat" alt="React"/>
+
 </td>
-<td width="50%" align="left" valign="top">
-<b>Herramientas de desarrollo</b><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-333333?style=flat-square" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square" alt="Bash"/>
+<td align="center" width="450">
+
+**Herramientas de desarrollo**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-333333?style=flat" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat" alt="Bash"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Infraestructura**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat" alt="AWS"/>
+
 </td>
 </tr>
 </table>
-
-<div align="center">
-<b>Infraestructura</b><br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
 </div>
 
 ---
+
 
 
 ## 🚀 My projects | Mis proyectos
