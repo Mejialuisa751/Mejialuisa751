@@ -54,51 +54,32 @@ Me gusta comprender cómo funcionan las cosas, enfrentar nuevos retos y transfor
 
 ## 💻 Tech Stack | Tecnologías y herramientas
 
-<div align="center">
-
 <table width="100%">
 <tr>
-<td align="center" width="50%">
-
-<b>Lenguajes de programación</b>
-
-<br><br>
-
-<img height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/>
-<img height="24" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" alt="CSS"/>
-<img height="24" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square" alt="JavaScript"/>
-<img height="24" src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React"/>
-
+<td width="50%" align="left" valign="top">
+<b>Lenguajes de programación</b><br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" alt="CSS"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React"/>
 </td>
-<td align="center" width="50%">
-
-<b>Herramientas de desarrollo</b>
-
-<br><br>
-
-<img height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git"/>
-<img height="24" src="https://img.shields.io/badge/GitHub-333333?style=flat-square" alt="GitHub"/>
-<img height="24" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="Visual Studio Code"/>
-<img height="24" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square" alt="Bash"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<b>Infraestructura</b>
-
-<br><br>
-
-<img height="24" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
-
+<td width="50%" align="left" valign="top">
+<b>Herramientas de desarrollo</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-333333?style=flat-square" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square" alt="Bash"/>
 </td>
 </tr>
 </table>
 
+<div align="center">
+<b>Infraestructura</b><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
 </div>
 
 ---
+
 
 ## 🚀 My projects | Mis proyectos
 
